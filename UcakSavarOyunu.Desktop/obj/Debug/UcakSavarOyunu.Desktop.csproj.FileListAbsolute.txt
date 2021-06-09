@@ -1,0 +1,11 @@
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavarOyunu.Desktop\bin\Debug\UcakSavarOyunu.exe.config
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavarOyunu.Desktop\bin\Debug\UcakSavarOyunu.exe
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavarOyunu.Desktop\bin\Debug\UcakSavarOyunu.pdb
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavarOyunu.Desktop\obj\Debug\UcakSavarOyunu.Desktop.csprojResolveAssemblyReference.cache
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavarOyunu.Desktop\obj\Debug\UcakSavarOyunu.Desktop.AnaForm.resources
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavarOyunu.Desktop\obj\Debug\UcakSavarOyunu.Desktop.Properties.Resources.resources
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavarOyunu.Desktop\obj\Debug\UcakSavarOyunu.Desktop.csproj.GenerateResource.Cache
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavarOyunu.Desktop\obj\Debug\UcakSavarOyunu.exe
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavarOyunu.Desktop\obj\Debug\UcakSavarOyunu.pdb
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavarOyunu.Desktop\bin\Debug\UcakSavar.Library.dll
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavarOyunu.Desktop\bin\Debug\UcakSavar.Library.pdb

@@ -1,0 +1,4 @@
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavar.Library\bin\Debug\UcakSavar.Library.dll
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavar.Library\bin\Debug\UcakSavar.Library.pdb
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavar.Library\obj\Debug\UcakSavar.Library.dll
+c:\users\furka\documents\visual studio 2013\Projects\UcakSavarOyunu\UcakSavar.Library\obj\Debug\UcakSavar.Library.pdb
